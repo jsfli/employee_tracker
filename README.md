@@ -1,4 +1,4 @@
-# _employees-projects_
+# employee_tracker_app
 
 ##### This application is a demonstration application designed to show a many-to-many relationship between employees and projects using Active Record.
 
@@ -12,7 +12,7 @@ Installation
 ------------
 
 ```
-$ git clone https://github.com/epicodus-lessons/employees-projects
+$ git clone https://github.com/jsfli/employee_tracker.git
 ```
 
 Install required gems:
@@ -36,7 +36,4 @@ Navigate to `localhost:4567` in browser.
 License
 -------
 
-GNU GPL v2. Copyright 2015 **Epicodus**
-
-***Small change to README added to bookmark completion of one-to-many relationship between employees and projects***
-# employee_tracker
+free
